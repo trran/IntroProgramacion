@@ -1,0 +1,9 @@
+C:\Desarrollo\VB .net\Reports\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Desarrollo\VB .net\Reports\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Desarrollo\VB .net\Reports\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Desarrollo\VB .net\Reports\Hello World\Hello World\bin\Debug\Hello World.xml
+C:\Desarrollo\VB .net\Reports\Hello World\Hello World\obj\Debug\Hello_World.Resources.resources
+C:\Desarrollo\VB .net\Reports\Hello World\Hello World\obj\Debug\Hello World.vbproj.GenerateResource.Cache
+C:\Desarrollo\VB .net\Reports\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Desarrollo\VB .net\Reports\Hello World\Hello World\obj\Debug\Hello World.xml
+C:\Desarrollo\VB .net\Reports\Hello World\Hello World\obj\Debug\Hello World.pdb
