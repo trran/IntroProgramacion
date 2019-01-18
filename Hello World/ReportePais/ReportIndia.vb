@@ -1,7 +1,7 @@
-﻿Public Class ReportIndia
+﻿Friend Class ReportIndia
     Implements IGeneralReport
 
-    Public Sub Print() Implements IGeneralReport.Print
+    Sub Print() Implements IGeneralReport.Print
         Console.WriteLine("Imprimiendo Reporte de India.")
         Console.WriteLine("_______________________________________________")
 

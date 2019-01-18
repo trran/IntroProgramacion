@@ -1,4 +1,4 @@
-﻿Public Class ReportRD
+﻿Friend Class ReportRD
     Implements IGeneralReport
 
     Public Sub Print() Implements IGeneralReport.Print

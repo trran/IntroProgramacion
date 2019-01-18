@@ -1,4 +1,4 @@
-﻿Public Class ReportUSA
+﻿Friend Class ReportUSA
     Implements IGeneralReport
 
     Public Sub Print() Implements IGeneralReport.Print
