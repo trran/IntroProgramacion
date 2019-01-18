@@ -1,7 +1,7 @@
 ﻿Public Class ReportIndia
     Implements IGeneralReport
 
-    Public Function Print() As Object Implements IGeneralReport.Print
+    Public Sub Print() Implements IGeneralReport.Print
         Console.WriteLine("Imprimiendo Reporte de India.")
         Console.WriteLine("_______________________________________________")
 
@@ -11,6 +11,5 @@
         Console.WriteLine("Presidente: Ram Nath Kovind.")
         Console.WriteLine("_______________________________________________")
 
-        Return Me.ToString()
-    End Function
+    End Sub
 End Class

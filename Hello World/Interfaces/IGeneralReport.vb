@@ -1,3 +1,3 @@
 ﻿Public Interface IGeneralReport
-    Function Print()
+    Sub Print()
 End Interface

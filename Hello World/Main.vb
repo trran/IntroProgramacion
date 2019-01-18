@@ -21,13 +21,12 @@
         Console.ReadKey()
     End Sub
 
-    Private Function encabezado()
+    Private Sub encabezado()
         Console.WriteLine("Ingrese número el reporte que desea imprimir:")
         Console.WriteLine("0: Republica Dominicana")
         Console.WriteLine("1: Estados Unidos")
         Console.WriteLine("2: India")
-        Return True
-    End Function
+    End Sub
 
     Private Function parseStringToGeneralReportEnum() As Boolean
 

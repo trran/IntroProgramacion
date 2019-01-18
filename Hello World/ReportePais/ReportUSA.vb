@@ -1,7 +1,7 @@
 ﻿Public Class ReportUSA
     Implements IGeneralReport
 
-    Public Function Print() As Object Implements IGeneralReport.Print
+    Public Sub Print() Implements IGeneralReport.Print
         Console.WriteLine("Imprimiendo Reporte de Estados Unidos:")
         Console.WriteLine("_______________________________________________")
         Console.WriteLine()
@@ -11,6 +11,5 @@
         Console.WriteLine("Presidente:	Donald Trump.")
         Console.WriteLine("_______________________________________________")
 
-        Return Me.ToString()
-    End Function
+    End Sub
 End Class

@@ -1,7 +1,7 @@
 ﻿Public Class ReportRD
     Implements IGeneralReport
 
-    Public Function Print() As Object Implements IGeneralReport.Print
+    Public Sub Print() Implements IGeneralReport.Print
         Console.WriteLine("Imprimiendo Reporte de Republica Dominicana:")
         Console.WriteLine("_______________________________________________")
         Console.WriteLine("Capital: Santo Domingo.")
@@ -10,6 +10,5 @@
         Console.WriteLine("Presidente: Danilo Medina.")
         Console.WriteLine("_______________________________________________")
 
-        Return Me.ToString()
-    End Function
+    End Sub
 End Class
